@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 =======
 <html>
 <body>
 <header>
 <h1>git</h1>
+<h1>git2</h1>
 </header>
 </body>
 </html>
