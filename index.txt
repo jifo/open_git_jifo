@@ -1,11 +1,12 @@
-﻿<<<<<<< HEAD
-=======
+﻿
 <html>
 <body>
 <header>
 <h1>git</h1>
+
 <h1>브랜치</h1>
+
 </header>
 </body>
 </html>
->>>>>>> 실험
+
