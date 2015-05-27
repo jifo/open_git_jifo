@@ -8,7 +8,7 @@
 <h1>branch</h1>
 <h1>브랜치2</h1>
 <h1>충돌</h1>
-
+<h1>원격저장소</h1>
 </header>
 </body>
 </html>
